@@ -158,7 +158,7 @@
 </section>
   <!-- 页脚区域 -->
   <footer>
-    <p>版权所有 © 2024 复杂带图页面示例。保留所有权利。</p>
+    <p>xxxxxxxxx</p>
   </footer>
 </body>
 
